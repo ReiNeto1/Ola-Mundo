@@ -1,3 +1,3 @@
 # Olá, Mundo
  primeiro projeto do curso de git e github
- primeiro repositorio em vídeo
+ primeiro repositorio em vídeo aula ao vivo!!
